@@ -1,0 +1,6 @@
+.todo-item {
+  height: 200px;
+  background-color: beige;
+  padding: 10px;
+  overflow-y: auto;
+}
